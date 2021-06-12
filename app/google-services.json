@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289983675337",
+    "project_id": "showvideo-277ed",
+    "storage_bucket": "showvideo-277ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289983675337:android:96fa14c8228e45af784618",
+        "android_client_info": {
+          "package_name": "com.example.showvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289983675337-16gmj6m46hsu8m9vuc8sgqq4t67e2v34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXMm-wlo-rJO0KMq23Szcc4C1RUCvnhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289983675337-16gmj6m46hsu8m9vuc8sgqq4t67e2v34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
